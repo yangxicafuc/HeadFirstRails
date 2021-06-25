@@ -1,2 +1,2 @@
 # HeadFirstRails
-<Head First Rails> codes
+Head First Rails codes
